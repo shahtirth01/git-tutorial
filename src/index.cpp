@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "version 2";
+    cout << "version 1";
     return 0;
 }
