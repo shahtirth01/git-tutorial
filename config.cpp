@@ -4,6 +4,7 @@ int main()
 {
     cout << "version 1";
     cout<<"I love you";
+    cout<<"tas";
     
     return 0;
 }
